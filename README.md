@@ -1,19 +1,15 @@
-# Course Projects
+# Projetos do Curso
 
-Repository created to store and organize the projects developed during my Systems Development technical course.
+Repositório criado para armazenar e organizar os projetos desenvolvidos durante o meu curso técnico em Desenvolvimento de Sistemas.
 
-## About
-Here you will find exercises, challenges, and practical projects made during classes and studies.
+## Sobre
+Aqui você encontrará exercícios, desafios e projetos práticos realizados durante as aulas e estudos.
 
-## Technologies
+## Tecnologias
 - Java
-- HTML
-- CSS
-- JavaScript
-- SQL
 
-## Goal
-Track my learning journey and share my progress as a developer.
+## Objetivo
+Acompanhar minha jornada de aprendizado e compartilhar minha evolução como desenvolvedor.
 
 ---
-Made by Eduardo Reis
+Feito por Eduardo Reis
